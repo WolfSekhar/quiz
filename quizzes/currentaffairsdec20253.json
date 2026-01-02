@@ -1,0 +1,110 @@
+{
+    "meta": {
+      "title": "December 2025 Current Affairs - Set C (Sports)",
+      "topic": "Current Affairs",
+      "duration": "20 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      {
+        "question": "Which country won the Women's ODI Cricket World Cup 2025?",
+        "options": ["Australia", "England", "South Africa", "India"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who was named the 'Player of the Tournament' in the 2025 Women's Cricket World Cup?",
+        "options": ["Smriti Mandhana", "Deepti Sharma", "Ellyse Perry", "Laura Wolvaardt"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "India hosted which major hockey tournament in November-December 2025?",
+        "options": ["Men's Hockey World Cup", "Champions Trophy", "Pro League Finals", "FIH Men's Junior World Cup"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which venue hosted the final of the Women's Cricket World Cup 2025?",
+        "options": ["Lord's", "MCG", "Eden Gardens", "DY Patil Stadium"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who won the men's singles title at the Senior National Badminton Championships held in Vijayawada?",
+        "options": ["Lakshya Sen", "Rithvik Sanjeevi", "Kidambi Srikanth", "HS Prannoy"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which country won its maiden Squash World Cup title in Chennai?",
+        "options": ["Egypt", "Malaysia", "England", "India"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The 'National Sports Governance Bill 2025' was introduced in the Indian Parliament by which ministry?",
+        "options": ["Home Affairs", "Youth Affairs & Sports", "Law & Justice", "Education"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'PDC World Darts Championship' traditionally begins in December at which venue?",
+        "options": ["O2 Arena, London", "Madison Square Garden, NY", "Alexandra Palace, London", "Rod Laver Arena, Melbourne"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which city is the traditional host of the 'Boxing Day Test' match in Australia?",
+        "options": ["Sydney", "Melbourne", "Adelaide", "Perth"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who became the first Indian boxer to win a gold medal at the World Boxing Championships 2025 in Liverpool?",
+        "options": ["Nikhat Zareen", "Lovlina Borgohain", "Nitu Ghanghas", "Jaismine Lamboria"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which team won the 2025 Kho Kho World Cup (Men)?",
+        "options": ["Nepal", "India", "Bangladesh", "England"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'United Cup' is a mixed-team event associated with which sport?",
+        "options": ["Badminton", "Table Tennis", "Squash", "Tennis"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who was announced as the first wheelchair user to travel to space (NS-37 mission)?",
+        "options": ["Stephen Hawking", "Avani Lekhara", "Deepa Malik", "Michaela Benthaus"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which nation hosted the '2025 World Junior Ice Hockey Championships' starting in late December?",
+        "options": ["Canada", "USA", "Sweden", "Finland"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The 'Tour de Ski' is a premier event in which sport?",
+        "options": ["Alpine Skiing", "Cross-Country Skiing", "Ski Jumping", "Biathlon"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which team won the 2025 Under-19 Women's T20 World Cup?",
+        "options": ["Australia", "England", "India", "New Zealand"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The 'Tata Steel Chess Tournament' is traditionally held in which country?",
+        "options": ["India", "Netherlands", "Russia", "USA"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which city hosted the 'Divya Kala Mela' featuring Divyangjan artisans?",
+        "options": ["Patna", "Lucknow", "Bhopal", "Multiple Cities"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The 2025 Formula 1 season finale was held in which city?",
+        "options": ["Sao Paulo", "Abu Dhabi", "Las Vegas", "Singapore"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which Indian shooter is associated with the 2025 achievements in 10m Air Rifle?",
+        "options": ["Abhinav Bindra", "Rudrankksh Patil", "Gagan Narang", "Manu Bhaker"],
+        "correctAnswer": 1
+      }
+    ]
+  }

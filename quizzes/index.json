@@ -1,14 +1,157 @@
-["computer1.json",
-"Computer_2.json",
-"Computer_3.json",
-"Computer_4.json",
-"Computer_5.json",
-"Computer_6.json",
-"Computer_7.json",
-"Computer_8.json",
-"Computer_9.json",
-"Computer_10.json",
-"Computer_11.json",
-"Computer_12.json",
-"Computer_13.json",
-"Computer_14.json"]
+[
+    {
+      "id": "Computer",
+      "title": "Computer",
+      "description": "Programming, Hardware, and Logic",
+      "icon": "Cpu", 
+      "quizzes": [
+        {
+          "id": "Computer1",
+          "title": "ECGC PO Computer Knowledge - Set 1",
+          "filename": "computer1.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+        },
+        {
+            "id": "Computer2",
+            "title": "ECGC PO Computer Knowledge - Set 2",
+            "filename": "Computer_2.json",
+            "duration": "20 Mins",
+            "questionCount": 40
+        },
+        {
+          "id": "Computer3",
+          "title": "ECGC PO Computer Knowledge - Set 3",
+          "filename": "Computer_3.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer4",
+          "title": "ECGC PO Computer Knowledge - Set 4",
+          "filename": "Computer_4.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer5",
+          "title": "ECGC PO Computer Knowledge - Set 5",
+          "filename": "Computer_5.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer6",
+          "title": "ECGC PO Computer Knowledge - Set 6",
+          "filename": "Computer_6.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer7",
+          "title": "ECGC PO Computer Knowledge - Set 7",
+          "filename": "Computer_7.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer8",
+          "title": "ECGC PO Computer Knowledge - Set 8",
+          "filename": "Computer_8.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer9",
+          "title": "ECGC PO Computer Knowledge - Set 9",
+          "filename": "Computer_9.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer10",
+          "title": "ECGC PO Computer Knowledge - Set 10",
+          "filename": "Computer_10.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer11",
+          "title": "ECGC PO Computer Knowledge - Set 11",
+          "filename": "Computer_11.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer12",
+          "title": "ECGC PO Computer Knowledge - Set 12",
+          "filename": "Computer_12.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer13",
+          "title": "ECGC PO Computer Knowledge - Set 13",
+          "filename": "Computer_13.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      },
+      {
+          "id": "Computer14",
+          "title": "ECGC PO Computer Knowledge - Set 14",
+          "filename": "Computer_14.json",
+          "duration": "20 Mins",
+          "questionCount": 40
+      }
+      
+      ]
+    },
+    {
+      "id": "currentaffairs",
+      "title": "Current Affair",
+      "description": "Current Affairs",
+      "icon": "Beaker",
+      "quizzes": [
+        {
+            "id": "currentaffairsdec20251",
+            "title": "December 2025 Current Affairs - Set A (National)",
+            "filename": "currentaffairsdec20251.json",
+            "duration": "20 Mins",
+            "questionCount": 20
+        },
+        {
+          "id": "currentaffairsdec20252",
+          "title": "December 2025 Current Affairs - Set B (International)",
+          "filename": "currentaffairsdec20252.json",
+          "duration": "20 Mins",
+          "questionCount": 20
+      },
+      {
+        "id": "currentaffairsdec20253",
+        "title": "December 2025 Current Affairs - Set C (Sports)",
+        "filename": "currentaffairsdec20253.json",
+        "duration": "20 Mins",
+        "questionCount": 20
+    },
+    {
+      "id": "currentaffairsdec20254",
+      "title": "December 2025 Current Affairs - Set D (Sci & Env)",
+      "filename": "currentaffairsdec20254.json",
+      "duration": "20 Mins",
+      "questionCount": 20
+  }
+      ]
+    }
+  ]
+
+
+
+
+
+
+
+
+
+
+
+

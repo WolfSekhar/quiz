@@ -1,0 +1,110 @@
+{
+    "meta": {
+      "title": "December 2025 Current Affairs - Set D (Sci & Env)",
+      "topic": "Current Affairs",
+      "duration": "20 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      {
+        "question": "Which ISRO mission was scheduled for launch on December 24, 2025?",
+        "options": ["Gaganyaan-1", "LVM3-M6 / Blue Bird Block 2", "Chandrayaan-4", "Mangalyaan-2"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'SHANTI Bill' passed in Dec 2025 is primarily concerned with?",
+        "options": ["Solar Energy", "Wind Energy", "Nuclear Energy", "Hydro Energy"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which Indian state approved the establishment of the 'Indian Artificial Intelligence Research Organization' (IAIRO)?",
+        "options": ["Karnataka", "Telangana", "Gujarat", "Maharashtra"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "A new species of fungus named 'Parasynnemellisia khasiana' was discovered in?",
+        "options": ["Sikkim", "Arunachal Pradesh", "Nagaland", "Meghalaya"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which reservoir in Chhattisgarh was declared a Ramsar Site in late 2025?",
+        "options": ["Gangrel Dam", "Murrum Silli", "Hasdeo Bango", "Kopra Reservoir"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The 'EARTH Summit 2025' was held in which Indian city?",
+        "options": ["New Delhi", "Gandhinagar", "Mumbai", "Bengaluru"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the primary theme of the '3rd International Conference on Green Hydrogen (ICGH 2025)'?",
+        "options": ["Green Mobility", "Sustainable Energy", "Hydrogen Economy", "Carbon Capture"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Operation 'Sagar Bandhu' was launched to assist which country after Cyclone Ditwah?",
+        "options": ["Maldives", "Bangladesh", "Myanmar", "Sri Lanka"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The 'Regional AI Impact Conference' focused on citizen empowerment was held in?",
+        "options": ["Guwahati", "Shillong", "Imphal", "Aizawl"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which organization hosted the '11th WMO Scientific Conference on Weather Modification'?",
+        "options": ["IMD", "IITM", "ISRO", "DRDO"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'NISAR' satellite, a joint mission between ISRO and NASA, is designed for?",
+        "options": ["Communication", "Earth Observation (Radar)", "Lunar Landing", "Solar Study"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which day is celebrated as 'National Mathematics Day' in India?",
+        "options": ["December 20", "December 22", "December 25", "December 14"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'National Energy Conservation Day' is observed on?",
+        "options": ["December 1", "December 22", "December 30", "December 14"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which city hosted the 'International Conference on Science Technology Innovation and Policy for Global Health'?",
+        "options": ["Guwahati", "Shillong", "Dibrugarh", "Tezpur"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The 'Bharat 6G 2025' international conference focused on?",
+        "options": ["5G Rollout", "Next Gen Telecommunications", "Fiber Optics", "Satellite Internet"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which country launched the 'World Health Innovation Forum' in late 2025?",
+        "options": ["India", "USA", "UK", "Switzerland"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The 'Indian Himalayan Region Climate Change Conclave 2025' was held in?",
+        "options": ["Shimla", "Imphal", "Dehradun", "Srinagar"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which institute organized the 'National Botanical Research Institute' event in late 2025?",
+        "options": ["CSIR-NBRI", "ICAR", "IARI", "BSI"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The 'Gaganyaan-2' mission, a precursor to human spaceflight, was a major milestone for?",
+        "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which tech summit had the theme 'Futurise: To shape the unknown'?",
+        "options": ["Bengaluru Tech Summit", "Hyderabad IT Summit", "Delhi Digital Conclave", "Mumbai Tech Week"],
+        "correctAnswer": 0
+      }
+    ]
+  }

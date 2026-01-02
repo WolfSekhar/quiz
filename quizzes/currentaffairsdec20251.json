@@ -1,0 +1,104 @@
+{
+    "questions": [
+      {
+        "question": "Which bill, passed in December 2025, aims to facilitate the entry of private players into the nuclear energy sector?",
+        "options": ["The Atomic Power Reform Bill", "The Nuclear Privatisation Act", "The Energy Security Bill", "The SHANTI Bill"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The 'Sabka Bima Sabki Raksha' Bill, assented to in December 2025, focuses on reforming which sector?",
+        "options": ["Defense Manufacturing", "Insurance", "Cybersecurity", "Healthcare Infrastructure"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which Indian state celebrated the 25th anniversary of the Hornbill Festival in December 2025?",
+        "options": ["Manipur", "Mizoram", "Nagaland", "Arunachal Pradesh"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where was the '23rd India-Russia Annual Summit' held in December 2025?",
+        "options": ["New Delhi", "Moscow", "St. Petersburg", "Sochi"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which city hosted the '9th AI Leadership Meet' organized by ASSOCHAM in December 2025?",
+        "options": ["Bengaluru", "Hyderabad", "Pune", "New Delhi"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The 'Divya Kala Mela', aimed at empowering Divyangjan entrepreneurs, was held in which month of 2025?",
+        "options": ["December", "October", "November", "August"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which state became the first to fully digitise its voter rolls under the Special Intensive Revision (SIR)?",
+        "options": ["Kerala", "Gujarat", "Maharashtra", "Rajasthan"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Union Minister Amit Shah inaugurated the redeveloped 'Batadrava Than' in which state?",
+        "options": ["West Bengal", "Odisha", "Assam", "Tripura"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which Andhra Pradesh product received the GI tag in December 2025?",
+        "options": ["Araku Coffee", "Kondapalli Toys", "Tirupati Laddu", "Ponduru Khadi"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "India's first 'wildlife-safe road' with table-top red markings was introduced on which National Highway?",
+        "options": ["NH-44", "NH-66", "NH-45", "NH-27"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which city hosted the 'World Summit on Disaster Management 2025'?",
+        "options": ["Shimla", "Gangtok", "Kathmandu", "Dehradun"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The 'EARTH Summit 2025', focused on rural economy, was organized in which city?",
+        "options": ["Varanasi", "Gandhinagar", "Indore", "Bhopal"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which legislation was introduced to replace the existing Waqf Act in 2025?",
+        "options": ["The Religious Endowments Act", "The Heritage Conservation Bill", "The Waqf (Amendment) Bill", "The Trust Management Act"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The 'National Street Food Festival' was organized in December 2025 at which venue?",
+        "options": ["India Gate", "Pragati Maidan", "Jawaharlal Nehru Stadium", "Dilli Haat"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The 'Kumbhalgarh Festival', celebrating Mewari heritage, takes place in which state?",
+        "options": ["Gujarat", "Madhya Pradesh", "Punjab", "Rajasthan"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which organization conducted the 'Conference of Chief Electoral Officers 2025'?",
+        "options": ["Election Commission of India", "NITI Aayog", "Ministry of Home Affairs", "Law Commission"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Navy Day is celebrated annually on which date in December?",
+        "options": ["December 1", "December 10", "December 16", "December 4"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The 'Viksit Bharat—Guarantee For Rozgar And Ajeevika Mission (Gramin) Bill' relates to which ministry?",
+        "options": ["Finance", "Rural Development", "Labor", "Skill Development"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who presided over the 'Constitution Day' celebrations leading into December 2025?",
+        "options": ["The Prime Minister", "The Chief Justice of India", "The President of India", "The Speaker of Lok Sabha"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The 'International Sand Art Festival' is a major cultural event in which state?",
+        "options": ["Goa", "Odisha", "Tamil Nadu", "Kerala"],
+        "correctAnswer": 1
+      }
+    ]
+  }

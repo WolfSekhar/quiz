@@ -1,11 +1,4 @@
-{
-  "meta": {
-    "title": "ECGC PO Computer Knowledge - Set 1",
-    "topic": "Computer Knowledge",
-    "duration": "20 Mins",
-    "numberOfQuestions": 40
-  },
-  "questions": [
+{"questions": [
     { "question": "Which of the following is considered a volatile memory in a computer system?", "options": ["Read-Only Memory (ROM)", "Hard Disk Drive (HDD)", "Random Access Memory (RAM)", "Flash Memory", "Magnetic Tape"], "correctAnswer": 2 },
     { "question": "In the context of the OSI model of networking, which layer is responsible for routing data packets from the source to the destination?", "options": ["Physical Layer", "Data Link Layer", "Network Layer", "Transport Layer", "Session Layer"], "correctAnswer": 2 },
     { "question": "Which shortcut key is used to \"Center Align\" the selected text in MS Word?", "options": ["Ctrl + C", "Ctrl + E", "Ctrl + R", "Ctrl + J", "Ctrl + M"], "correctAnswer": 1 },

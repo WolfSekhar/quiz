@@ -1,0 +1,110 @@
+{
+    "meta": {
+      "title": "December 2025 Current Affairs - Set B (International)",
+      "topic": "Current Affairs",
+      "duration": "20 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      {
+        "question": "Which city hosted the CITES CoP20 (Conference of the Parties) in late 2025?",
+        "options": ["Geneva, Switzerland", "Nairobi, Kenya", "Samarkand, Uzbekistan", "Montreal, Canada"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The 'Neutral Justice and the Future of International Commercial Courts Conference' was held in which country?",
+        "options": ["UAE", "Qatar", "Saudi Arabia", "Bahrain"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which country held the presidency of the G20 for the 2025 summit?",
+        "options": ["Brazil", "South Africa", "India", "USA"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'Kuala Lumpur Peace Accord' was a key outcome of which summit in late 2025?",
+        "options": ["47th ASEAN Summit", "APEC Summit", "G7 Summit", "SCO Summit"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which festival was officially inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in December 2025?",
+        "options": ["Holi", "Pongal", "Deepavali", "Onam"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which country became the first to receive UNESCO recognition for its national cuisine in December 2025?",
+        "options": ["France", "Italy", "Japan", "Mexico"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Prime Minister Narendra Modi received 'The Great Honour Nishan' from which country in December 2025?",
+        "options": ["Egypt", "Ethiopia", "Oman", "Nigeria"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who was named TIME magazine's 'Person of the Year' for 2025?",
+        "options": ["The AI Guardians", "Taylor Swift", "The Spirit of Ukraine", "Sam Altman"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which country unveiled new banknotes in December 2025, removing two zeros from the denomination?",
+        "options": ["Venezuela", "Zimbabwe", "Lebanon", "Syria"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'COP30' UN Climate Conference, which concluded just before December 2025, was held in which country?",
+        "options": ["Australia", "Germany", "Egypt", "Brazil"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which city was the venue for the '20th Session of Intergovernmental Committee Meeting' for UNESCO?",
+        "options": ["Paris", "Samarkand", "New York", "London"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'International Spice Conference 2025' was held in which country?",
+        "options": ["Vietnam", "India", "Indonesia", "Sri Lanka"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which day is observed globally on December 10th?",
+        "options": ["World AIDS Day", "Human Rights Day", "World Soil Day", "International Mountain Day"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'World Audio Visual and Entertainment Summit (WAVES)' took place in?",
+        "options": ["USA", "France", "Japan", "India"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which country hosted the 'Africa Climate Summit 2' in 2025?",
+        "options": ["Ethiopia", "Kenya", "South Africa", "Nigeria"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 'Global Energy Leaders’ Summit (GELS) 2025' was organized in which nation?",
+        "options": ["India", "Ethiopia", "Canada", "Norway"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which country is scheduled to host the 'UN Ocean Conference (UNOC3)'?",
+        "options": ["France", "Portugal", "Fiji", "Japan"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The 'Immigration and Foreigners Bill 2025' was a legislative topic in which country?",
+        "options": ["UK", "India", "Canada", "USA"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "International Anti-Corruption Day is observed on?",
+        "options": ["December 1", "December 15", "December 25", "December 9"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which organization launched the 'SoLAR Phase II' initiative for climate-resilient irrigation?",
+        "options": ["ISA", "IWMI", "UNEP", "FAO"],
+        "correctAnswer": 1
+      }
+    ]
+  }
