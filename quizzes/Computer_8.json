@@ -1,0 +1,30 @@
+{
+    "meta": {
+      "title": "ECGC PO Computer Knowledge - Set 8",
+      "topic": "Computer Knowledge",
+      "duration": "10 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      { "question": "Keys like 'Ctrl', 'Alt', and 'Shift' are referred to as:", "options": ["Function Keys", "Modifier Keys", "Toggle Keys", "Navigation Keys", "Numeric Keys"], "correctAnswer": 1 },
+      { "question": "1 Byte is equal to how many bits?", "options": ["4", "8", "16", "32", "64"], "correctAnswer": 1 },
+      { "question": "Which of the following is a type of non-impact printer?", "options": ["Dot Matrix", "Daisy Wheel", "Laser Printer", "Drum Printer", "Chain Printer"], "correctAnswer": 2 },
+      { "question": "Which Excel function joins two or more text strings into one string?", "options": ["JOIN", "MERGE", "CONCATENATE", "ADD", "COMBINE"], "correctAnswer": 2 },
+      { "question": "In which topology are all nodes connected to a central hub?", "options": ["Bus", "Ring", "Star", "Mesh", "Tree"], "correctAnswer": 2 },
+      { "question": "Which protocol is used to retrieve emails from a mail server?", "options": ["SMTP", "POP3", "FTP", "HTTP", "SNMP"], "correctAnswer": 1 },
+      { "question": "Which optical storage media typically has the highest capacity?", "options": ["CD", "DVD", "Blu-ray", "Floppy Disk", "Zip Drive"], "correctAnswer": 2 },
+      { "question": "Which shortcut is used to open the 'Replace' dialog in MS Word?", "options": ["Ctrl + F", "Ctrl + H", "Ctrl + R", "Ctrl + G", "Alt + R"], "correctAnswer": 1 },
+      { "question": "'Bing' is a search engine owned by which company?", "options": ["Google", "Yahoo", "Microsoft", "Apple", "IBM"], "correctAnswer": 2 },
+      { "question": "An IPv4 address is ___ bits long.", "options": ["16", "32", "48", "64", "128"], "correctAnswer": 1 },
+      { "question": "In a database, a field that links to the primary key of another table is called:", "options": ["Primary Key", "Foreign Key", "Candidate Key", "Super Key", "Alternate Key"], "correctAnswer": 1 },
+      { "question": "An attack that floods a network with traffic to make it unavailable to users is called:", "options": ["Phishing", "Spoofing", "DDoS", "SQL Injection", "Man-in-the-Middle"], "correctAnswer": 2 },
+      { "question": "What does SMPS stand for in computer hardware?", "options": ["Simple Mode Power Supply", "Switched Mode Power Supply", "Static Mode Power Supply", "System Main Power Supply", "Secure Mode Power Supply"], "correctAnswer": 1 },
+      { "question": "Which input device is used to read magnetic ink on bank cheques?", "options": ["OCR", "OMR", "MICR", "Bar Code Reader", "Scanner"], "correctAnswer": 2 },
+      { "question": "Which Excel feature keeps specific rows or columns visible while scrolling?", "options": ["Split", "Freeze Panes", "Hide", "Filter", "Group"], "correctAnswer": 1 },
+      { "question": "GUI stands for:", "options": ["Graphical User Interface", "Global User Interface", "General Utility Interface", "Graphical Utility Icon", "Gaming User Interface"], "correctAnswer": 0 },
+      { "question": "The shortcut to print a document is:", "options": ["Ctrl + P", "Ctrl + Shift + P", "Alt + P", "Ctrl + O", "Windows + P"], "correctAnswer": 0 },
+      { "question": "Which system translates domain names (like google.com) into IP addresses?", "options": ["DHCP", "DNS", "HTTP", "FTP", "TCP"], "correctAnswer": 1 },
+      { "question": "Who is known as the inventor of the World Wide Web (WWW)?", "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Mark Zuckerberg", "Vint Cerf"], "correctAnswer": 2 },
+      { "question": "Software that secretly gathers user information through the user's internet connection is:", "options": ["Adware", "Spyware", "Ransomware", "Worm", "Virus"], "correctAnswer": 1 }
+    ]
+  }

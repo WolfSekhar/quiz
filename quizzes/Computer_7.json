@@ -1,0 +1,30 @@
+{
+    "meta": {
+      "title": "ECGC PO Computer Knowledge - Set 7",
+      "topic": "Computer Knowledge",
+      "duration": "10 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      { "question": "Keys like 'Caps Lock', 'Num Lock', and 'Scroll Lock' are known as:", "options": ["Function Keys", "Toggle Keys", "Modifier Keys", "Navigation Keys", "Control Keys"], "correctAnswer": 1 },
+      { "question": "The Hexadecimal number system has a base of:", "options": ["2", "8", "10", "16", "32"], "correctAnswer": 3 },
+      { "question": "Which of the following is an output device used for visual display?", "options": ["Scanner", "Microphone", "Monitor", "Webcam", "Joystick"], "correctAnswer": 2 },
+      { "question": "Which network device is smarter than a hub and filters data to send it to a specific destination?", "options": ["Repeater", "Switch", "Bridge", "Gateway", "Modem"], "correctAnswer": 1 },
+      { "question": "Which protocol automatically assigns IP addresses to devices on a network?", "options": ["DNS", "DHCP", "FTP", "SMTP", "HTTP"], "correctAnswer": 1 },
+      { "question": "Which high-speed memory sits between the CPU and RAM?", "options": ["Virtual Memory", "Cache Memory", "Flash Memory", "Secondary Memory", "ROM"], "correctAnswer": 1 },
+      { "question": "Which shortcut key is used to open the 'Find' dialog box?", "options": ["Ctrl + H", "Ctrl + F", "Ctrl + G", "F5", "Alt + F"], "correctAnswer": 1 },
+      { "question": "'Microsoft Edge' is an example of a:", "options": ["Search Engine", "Web Browser", "Operating System", "Antivirus", "Word Processor"], "correctAnswer": 1 },
+      { "question": "In the domain name 'www.university.edu', the '.edu' part represents:", "options": ["Protocol", "Domain Name", "Top Level Domain (TLD)", "Subdomain", "Path"], "correctAnswer": 2 },
+      { "question": "The SQL command 'SELECT' is part of which language category?", "options": ["DDL", "DML", "DCL", "TCL", "DQL"], "correctAnswer": 1 },
+      { "question": "Software that records every keystroke made by a user to steal passwords is called:", "options": ["Spyware", "Keylogger", "Ransomware", "Worm", "Rootkit"], "correctAnswer": 1 },
+      { "question": "The main circuit board that holds the CPU, RAM, and other components is the:", "options": ["SMPS", "Motherboard", "Hard Drive", "Expansion Card", "Bus"], "correctAnswer": 1 },
+      { "question": "The technology used to convert scanned images of text into editable text is:", "options": ["MICR", "OMR", "OCR", "BCR", "PDF"], "correctAnswer": 2 },
+      { "question": "Which key allows you to edit the active cell in Excel?", "options": ["F1", "F2", "F4", "F12", "Enter"], "correctAnswer": 1 },
+      { "question": "Which operating system is known for being open-source and free?", "options": ["Windows", "macOS", "Linux", "iOS", "DOS"], "correctAnswer": 2 },
+      { "question": "The keyboard shortcut for 'Paste' is:", "options": ["Ctrl + C", "Ctrl + X", "Ctrl + P", "Ctrl + V", "Ctrl + Z"], "correctAnswer": 3 },
+      { "question": "Which protocol is responsible for sending emails?", "options": ["POP3", "IMAP", "SMTP", "HTTP", "FTP"], "correctAnswer": 2 },
+      { "question": "Malware that encrypts files and demands payment for the decryption key is called:", "options": ["Spyware", "Adware", "Ransomware", "Worm", "Trojan"], "correctAnswer": 2 },
+      { "question": "Which IP address class is commonly used for small to mid-sized networks (192.0.0.0 to 223.255.255.255)?", "options": ["Class A", "Class B", "Class C", "Class D", "Class E"], "correctAnswer": 2 },
+      { "question": "A terminal that has a monitor and keyboard but no processing power is called a:", "options": ["Intelligent Terminal", "Smart Terminal", "Dumb Terminal", "Workstation", "Server"], "correctAnswer": 2 }
+    ]
+  }

@@ -1,0 +1,30 @@
+{
+    "meta": {
+      "title": "ECGC PO Computer Knowledge - Set 14 (PYQ Special)",
+      "topic": "Computer Knowledge",
+      "duration": "10 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      { "question": "Which of the following is a non-volatile memory that retains data even when power is off?", "options": ["SRAM", "DRAM", "ROM", "Virtual Memory", "Cache"], "correctAnswer": 2 },
+      { "question": "In MS PowerPoint, which view is best used to reorder slides?", "options": ["Normal View", "Slide Sorter View", "Reading View", "Slide Show", "Notes Page"], "correctAnswer": 1 },
+      { "question": "A network security system that monitors and controls incoming and outgoing network traffic is called a:", "options": ["Antivirus", "Firewall", "Spyware", "Gateway", "Protocol"], "correctAnswer": 1 },
+      { "question": "Which protocol is used for browsing websites securely?", "options": ["HTTP", "FTP", "HTTPS", "SMTP", "Telnet"], "correctAnswer": 2 },
+      { "question": "The smallest unit of a digital image is called a:", "options": ["Bit", "Byte", "Pixel", "Megapixel", "Resolution"], "correctAnswer": 2 },
+      { "question": "Which key combination is used to permanently delete a file/folder?", "options": ["Delete", "Shift + Delete", "Ctrl + Delete", "Alt + Delete", "Esc + Delete"], "correctAnswer": 1 },
+      { "question": "Who is considered the 'Father of the Computer'?", "options": ["Alan Turing", "Charles Babbage", "Tim Berners-Lee", "Bill Gates", "Steve Jobs"], "correctAnswer": 1 },
+      { "question": "Which of the following is an example of an Operating System?", "options": ["Microsoft Word", "Google Chrome", "Linux", "Intel Core i7", "Python"], "correctAnswer": 2 },
+      { "question": "The process of starting a computer from a powered-off state is called:", "options": ["Warm Boot", "Cold Boot", "Restart", "Sleep Mode", "Hibernate"], "correctAnswer": 1 },
+      { "question": "Which output device is used to produce large-format drawings like architectural blueprints?", "options": ["Laser Printer", "Dot Matrix Printer", "Plotter", "Scanner", "Projector"], "correctAnswer": 2 },
+      { "question": "In a database, a 'Tuple' refers to a:", "options": ["Column", "Row", "Table", "Key", "Field"], "correctAnswer": 1 },
+      { "question": "What does 'URL' stand for?", "options": ["Uniform Resource Locator", "Universal Resource Link", "Uniform Reference Line", "User Resource Library", "United Resource Locator"], "correctAnswer": 0 },
+      { "question": "Which malware disguises itself as legitimate software?", "options": ["Virus", "Worm", "Trojan Horse", "Adware", "Spyware"], "correctAnswer": 2 },
+      { "question": "1 Byte equals how many bits?", "options": ["4", "8", "16", "32", "64"], "correctAnswer": 1 },
+      { "question": "Which shortcut in MS Excel is used to insert the current date?", "options": ["Ctrl + ;", "Ctrl + Shift + ;", "Alt + Shift + D", "Ctrl + D", "Ctrl + T"], "correctAnswer": 0 },
+      { "question": "Which topology connects all devices to a single central cable?", "options": ["Star", "Ring", "Bus", "Mesh", "Tree"], "correctAnswer": 2 },
+      { "question": "Software that translates source code into object code all at once is called a:", "options": ["Interpreter", "Compiler", "Assembler", "Debugger", "Loader"], "correctAnswer": 1 },
+      { "question": "Which of the following is NOT a web browser?", "options": ["Safari", "Firefox", "Edge", "Google", "Opera"], "correctAnswer": 3 },
+      { "question": "The 'Brain' of the computer where calculations take place is the:", "options": ["Hard Disk", "RAM", "CPU", "Motherboard", "Power Supply"], "correctAnswer": 2 },
+      { "question": "Which port number is standard for SMTP (Simple Mail Transfer Protocol)?", "options": ["21", "25", "80", "110", "443"], "correctAnswer": 1 }
+    ]
+  }

@@ -1,0 +1,30 @@
+{
+    "meta": {
+      "title": "ECGC PO Computer Knowledge - Set 6",
+      "topic": "Computer Knowledge",
+      "duration": "10 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      { "question": "Which function key is commonly used to access the 'Help' feature in most applications?", "options": ["F1", "F2", "F5", "F10", "F12"], "correctAnswer": 0 },
+      { "question": "One 'Nibble' is equal to how many bits?", "options": ["2 Bits", "4 Bits", "8 Bits", "16 Bits", "32 Bits"], "correctAnswer": 1 },
+      { "question": "Which of the following is an input device used primarily for gaming?", "options": ["Speaker", "Printer", "Trackball", "Plotter", "Projector"], "correctAnswer": 2 },
+      { "question": "Which Excel function counts the number of cells that contain numbers?", "options": ["COUNT", "COUNTA", "COUNTIF", "SUM", "TOTAL"], "correctAnswer": 0 },
+      { "question": "In which network topology is every node connected to exactly two other nodes, forming a closed loop?", "options": ["Bus", "Star", "Ring", "Mesh", "Tree"], "correctAnswer": 2 },
+      { "question": "Which protocol is typically used for transferring files between a client and server?", "options": ["HTTP", "SMTP", "FTP", "SNMP", "DHCP"], "correctAnswer": 2 },
+      { "question": "Arrange the memory units from smallest to largest.", "options": ["TB < GB < MB < KB", "KB < MB < GB < TB", "MB < KB < TB < GB", "KB < GB < MB < TB", "TB < MB < GB < KB"], "correctAnswer": 1 },
+      { "question": "Which shortcut in MS Word is used to create a 'Subscript' (e.g., H₂O)?", "options": ["Ctrl + Shift + +", "Ctrl + =", "Alt + =", "Ctrl + S", "Shift + F3"], "correctAnswer": 1 },
+      { "question": "A small text file created by a website that is stored in the user's computer is called a:", "options": ["Cache", "Cookie", "Bug", "Applet", "Extension"], "correctAnswer": 1 },
+      { "question": "The first page that appears when you open a website is called the:", "options": ["Master Page", "Home Page", "Index Page", "First Page", "Main Page"], "correctAnswer": 1 },
+      { "question": "The process of organizing data in a database to avoid duplication is known as:", "options": ["Decomposition", "Normalization", "Aggregation", "Serialization", "Encryption"], "correctAnswer": 1 },
+      { "question": "Which malware disguises itself as legitimate software to deceive users?", "options": ["Virus", "Worm", "Trojan Horse", "Spyware", "Adware"], "correctAnswer": 2 },
+      { "question": "Which component is known as the 'Brain' of the computer?", "options": ["RAM", "Hard Disk", "CPU", "Motherboard", "GPU"], "correctAnswer": 2 },
+      { "question": "A 'Plotter' is which type of device?", "options": ["Input", "Output", "Storage", "Processing", "Networking"], "correctAnswer": 1 },
+      { "question": "In Excel, the intersection of a column and a row is called a:", "options": ["Grid", "Box", "Cell", "Range", "Field"], "correctAnswer": 2 },
+      { "question": "Which of the following is a popular mobile operating system developed by Google?", "options": ["iOS", "Windows Mobile", "Android", "Symbian", "BlackBerry"], "correctAnswer": 2 },
+      { "question": "Which shortcut key selects all text in a document?", "options": ["Ctrl + S", "Ctrl + A", "Ctrl + D", "Alt + A", "Shift + A"], "correctAnswer": 1 },
+      { "question": "A network that covers a city or a large campus is known as:", "options": ["LAN", "MAN", "WAN", "PAN", "SAN"], "correctAnswer": 1 },
+      { "question": "In email, 'BCC' stands for:", "options": ["Basic Carbon Copy", "Blind Carbon Copy", "Backup Carbon Copy", "Blind Common Copy", "Base Carbon Copy"], "correctAnswer": 1 },
+      { "question": "A type of malware that self-replicates and spreads across networks without human action is:", "options": ["Virus", "Trojan", "Worm", "Adware", "Spyware"], "correctAnswer": 2 }
+    ]
+  }

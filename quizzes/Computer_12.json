@@ -1,0 +1,30 @@
+{
+    "meta": {
+      "title": "ECGC PO Computer Knowledge - Set 12",
+      "topic": "Computer Knowledge",
+      "duration": "10 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      { "question": "Which shortcut key combination allows you to switch between open applications?", "options": ["Alt + Tab", "Ctrl + Tab", "Shift + Tab", "Windows + Tab", "Alt + Shift"], "correctAnswer": 0 },
+      { "question": "Adobe's popular file format for documents that preserves layout is:", "options": ["DOCX", "TXT", "PDF", "HTML", "RTF"], "correctAnswer": 2 },
+      { "question": "Which of the following is strictly an Output Device?", "options": ["Touchscreen", "Projector", "Scanner", "Webcam", "Microphone"], "correctAnswer": 1 },
+      { "question": "Which service allows you to store files on remote servers accessed via the internet (e.g., Dropbox)?", "options": ["Local Storage", "Cloud Storage", "Flash Storage", "Optical Storage", "Magnetic Storage"], "correctAnswer": 1 },
+      { "question": "Routers operate at which layer of the OSI model?", "options": ["Physical Layer", "Data Link Layer", "Network Layer", "Transport Layer", "Application Layer"], "correctAnswer": 2 },
+      { "question": "Which Excel function converts text to all uppercase letters?", "options": ["UPPER()", "LOWER()", "PROPER()", "CAPS()", "TEXT()"], "correctAnswer": 0 },
+      { "question": "A security process that requires two different forms of identification is called:", "options": ["Single Sign-On", "Biometrics", "Two-Factor Authentication (2FA)", "Encryption", "Firewalling"], "correctAnswer": 2 },
+      { "question": "Which shortcut permanently deletes a file without sending it to the Recycle Bin?", "options": ["Delete", "Ctrl + Delete", "Shift + Delete", "Alt + Delete", "Windows + Delete"], "correctAnswer": 2 },
+      { "question": "A software update designed to fix problems with a computer program is called a:", "options": ["Patch", "Bug", "Glitch", "Version", "Driver"], "correctAnswer": 0 },
+      { "question": "Which file extension is commonly associated with executable programs in Windows?", "options": [".txt", ".exe", ".jpg", ".zip", ".pdf"], "correctAnswer": 1 },
+      { "question": "What is the specialized processor designed to handle graphics and image processing?", "options": ["CPU", "GPU", "APU", "FPU", "NPU"], "correctAnswer": 1 },
+      { "question": "Permanent software programmed into a read-only memory (like BIOS) is called:", "options": ["Software", "Hardware", "Firmware", "Shareware", "Malware"], "correctAnswer": 2 },
+      { "question": "Which SQL clause is used to sort the result set?", "options": ["ORDER BY", "GROUP BY", "SORT BY", "ALIGN BY", "FILTER BY"], "correctAnswer": 0 },
+      { "question": "Which function key is used to toggle 'Full Screen' mode in most web browsers?", "options": ["F1", "F5", "F10", "F11", "F12"], "correctAnswer": 3 },
+      { "question": "The initial set of diagnostic tests performed by the computer when powered on is called:", "options": ["BIOS", "CMOS", "POST", "BOOT", "LOAD"], "correctAnswer": 2 },
+      { "question": "Which input device uses physical traits like fingerprints or facial recognition?", "options": ["Biometric Sensor", "OCR", "Scanner", "Digitizer", "Light Pen"], "correctAnswer": 0 },
+      { "question": "Which protocol enables voice communications over the internet?", "options": ["VoIP", "HTTP", "FTP", "SMTP", "TCP"], "correctAnswer": 0 },
+      { "question": "Which shortcut key is used to underline selected text in MS Word?", "options": ["Ctrl + U", "Ctrl + B", "Ctrl + I", "Ctrl + D", "Alt + U"], "correctAnswer": 0 },
+      { "question": "In a URL, the portion 'http://' represents the:", "options": ["Domain", "Path", "Protocol", "Host", "Extension"], "correctAnswer": 2 },
+      { "question": "A network of private computers infected with malicious software and controlled as a group is a:", "options": ["Botnet", "Intranet", "Extranet", "Darknet", "Ethernet"], "correctAnswer": 0 }
+    ]
+  }

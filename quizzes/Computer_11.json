@@ -1,0 +1,30 @@
+{
+    "meta": {
+      "title": "ECGC PO Computer Knowledge - Set 11",
+      "topic": "Computer Knowledge",
+      "duration": "10 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      { "question": "Which shortcut key combination minimizes all open windows and shows the Desktop?", "options": ["Windows Key + M", "Windows Key + D", "Alt + D", "Ctrl + D", "Shift + D"], "correctAnswer": 1 },
+      { "question": "What does the file extension '.PNG' stand for?", "options": ["Portable Network Graphics", "Public Network Graphics", "Private Network Group", "Portable New Graphics", "Personal Network Graphics"], "correctAnswer": 0 },
+      { "question": "Which component inside the CPU performs arithmetic and logical operations?", "options": ["CU", "MU", "ALU", "Cache", "Register"], "correctAnswer": 2 },
+      { "question": "In MS Word, applying 'Italic' formatting uses which shortcut?", "options": ["Ctrl + B", "Ctrl + U", "Ctrl + I", "Ctrl + L", "Ctrl + K"], "correctAnswer": 2 },
+      { "question": "The psychological manipulation of people into performing actions or divulging confidential information is known as:", "options": ["Phishing", "Social Engineering", "Hacking", "Spoofing", "Sniffing"], "correctAnswer": 1 },
+      { "question": "What is the default file extension for MS Excel 2019 workbooks?", "options": [".xls", ".excel", ".xlsx", ".xlsm", ".xlt"], "correctAnswer": 2 },
+      { "question": "Every computer connected to the Internet must have a unique:", "options": ["HTTP Code", "IP Address", "HTML Tag", "Domain Name", "Email Address"], "correctAnswer": 1 },
+      { "question": "Which device is used to input audio into a computer?", "options": ["Speaker", "Microphone", "Scanner", "Monitor", "Printer"], "correctAnswer": 1 },
+      { "question": "1024 Kilobytes (KB) equals:", "options": ["1 MB", "1 GB", "1 TB", "1 PB", "1 Byte"], "correctAnswer": 0 },
+      { "question": "Which type of printer is commonly used in ATMs and for printing receipts?", "options": ["Laser Printer", "Inkjet Printer", "Thermal Printer", "Daisy Wheel Printer", "Plotter"], "correctAnswer": 2 },
+      { "question": "In an email, 'CC' stands for:", "options": ["Carbon Copy", "Cyber Copy", "Computer Copy", "Common Copy", "Contact Copy"], "correctAnswer": 0 },
+      { "question": "Temporary storage area for data that the CPU likely needs to access again soon is called:", "options": ["ROM", "Hard Drive", "Cache Memory", "Flash Memory", "Cloud Storage"], "correctAnswer": 2 },
+      { "question": "Which bar in MS Excel displays the content of the active cell?", "options": ["Title Bar", "Status Bar", "Formula Bar", "Scroll Bar", "Menu Bar"], "correctAnswer": 2 },
+      { "question": "Unnecessary duplication of data in a database is referred to as:", "options": ["Data Integrity", "Data Redundancy", "Data Consistency", "Data Mining", "Data Warehousing"], "correctAnswer": 1 },
+      { "question": "A cyber attack that takes place before the security community or developers are aware of the vulnerability is called a:", "options": ["Zero-day Attack", "Brute Force Attack", "DDOS Attack", "Phishing Attack", "Man-in-the-middle Attack"], "correctAnswer": 0 },
+      { "question": "Which feature allows you to jump to a specific slide in PowerPoint during a presentation?", "options": ["Hyperlink", "Transition", "Animation", "Macro", "Trigger"], "correctAnswer": 0 },
+      { "question": "The standard port number for HTTP is:", "options": ["21", "25", "80", "443", "110"], "correctAnswer": 2 },
+      { "question": "Which key deletes the character to the right of the cursor?", "options": ["Backspace", "Delete", "Insert", "End", "Home"], "correctAnswer": 1 },
+      { "question": "Software that is available free of charge but requires payment for advanced features is called:", "options": ["Freeware", "Shareware", "Firmware", "Open Source", "Adware"], "correctAnswer": 1 },
+      { "question": "What does the 'S' stand for in HTTPS?", "options": ["Standard", "System", "Secure", "Simple", "Speed"], "correctAnswer": 2 }
+    ]
+  }

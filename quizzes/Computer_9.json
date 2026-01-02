@@ -1,0 +1,30 @@
+{
+    "meta": {
+      "title": "ECGC PO Computer Knowledge - Set 9",
+      "topic": "Computer Knowledge",
+      "duration": "10 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      { "question": "Which function key refreshes the current window or page?", "options": ["F1", "F3", "F5", "F7", "F9"], "correctAnswer": 2 },
+      { "question": "What does ASCII stand for?", "options": ["American Standard Code for Information Interchange", "American System Code for Information Interchange", "Advanced Standard Code for Internet Interchange", "American Standard Code for Internet Input", "Automated Standard Code for Information Interchange"], "correctAnswer": 0 },
+      { "question": "A type of printer that uses a pen to draw continuous lines, often used for engineering drawings, is a:", "options": ["Laser Printer", "Inkjet Printer", "Plotter", "Dot Matrix", "Thermal Printer"], "correctAnswer": 2 },
+      { "question": "Which Excel function returns the current date and time?", "options": ["TODAY()", "DATE()", "NOW()", "TIME()", "CURRENT()"], "correctAnswer": 2 },
+      { "question": "A network confined to a single building or office is a:", "options": ["WAN", "MAN", "LAN", "PAN", "SAN"], "correctAnswer": 2 },
+      { "question": "Which protocol indicates a secure connection on the web?", "options": ["HTTP", "FTP", "HTTPS", "SMTP", "TELNET"], "correctAnswer": 2 },
+      { "question": "Memory management technique that uses hard drive space to simulate extra RAM is:", "options": ["Cache Memory", "Virtual Memory", "Flash Memory", "Read-Only Memory", "Buffer Memory"], "correctAnswer": 1 },
+      { "question": "Which shortcut undoes the last action?", "options": ["Ctrl + Y", "Ctrl + Z", "Ctrl + U", "Ctrl + X", "Alt + Backspace"], "correctAnswer": 1 },
+      { "question": "Which browser mode prevents the saving of history and cookies?", "options": ["Safe Mode", "Incognito/Private Mode", "Developer Mode", "Offline Mode", "Guest Mode"], "correctAnswer": 1 },
+      { "question": "A MAC (Media Access Control) address is ___ bits long.", "options": ["32", "48", "64", "128", "16"], "correctAnswer": 1 },
+      { "question": "Which SQL command removes all records from a table but keeps the structure?", "options": ["DELETE", "DROP", "TRUNCATE", "REMOVE", "ERASE"], "correctAnswer": 2 },
+      { "question": "A security system that monitors and controls incoming and outgoing network traffic is a:", "options": ["Antivirus", "Spyware", "Firewall", "Router", "Gateway"], "correctAnswer": 2 },
+      { "question": "USB stands for:", "options": ["Universal Serial Bus", "United Serial Bus", "Universal System Bus", "Uniform Serial Bus", "Unique Serial Bus"], "correctAnswer": 0 },
+      { "question": "Which device is used to read vertical black and white bars on product packaging?", "options": ["OCR", "OMR", "Barcode Reader", "QR Scanner", "MICR"], "correctAnswer": 2 },
+      { "question": "Which Excel tool is used to summarize, analyze, and present large amounts of data?", "options": ["Data Validation", "Goal Seek", "Pivot Table", "Macros", "Filter"], "correctAnswer": 2 },
+      { "question": "Starting a computer from a powered-off state is called:", "options": ["Warm Boot", "Cold Boot", "Restart", "Sleep", "Hibernate"], "correctAnswer": 1 },
+      { "question": "Which shortcut redoes an action that was undone?", "options": ["Ctrl + Z", "Ctrl + Y", "Ctrl + R", "Ctrl + Shift + Z", "Alt + Y"], "correctAnswer": 1 },
+      { "question": "What allows a secure connection to a private network over the public internet?", "options": ["LAN", "VPN", "WAN", "DNS", "ISP"], "correctAnswer": 1 },
+      { "question": "In the email address 'user@example.com', 'example.com' is the:", "options": ["Username", "Domain Name", "Protocol", "Extension", "Server Name"], "correctAnswer": 1 },
+      { "question": "A collection of software tools used by hackers to gain unauthorized access to a computer is a:", "options": ["Rootkit", "Worm", "Trojan", "Backdoor", "Keylogger"], "correctAnswer": 0 }
+    ]
+  }

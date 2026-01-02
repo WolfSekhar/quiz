@@ -1,0 +1,30 @@
+{
+    "meta": {
+      "title": "ECGC PO Computer Knowledge - Set 10",
+      "topic": "Computer Knowledge",
+      "duration": "10 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      { "question": "Which key moves the cursor to the beginning of the current line?", "options": ["End", "Home", "Ctrl + Home", "Page Up", "Left Arrow"], "correctAnswer": 1 },
+      { "question": "The binary representation of the decimal number 5 is:", "options": ["100", "101", "110", "111", "011"], "correctAnswer": 1 },
+      { "question": "A device that converts physical documents into digital format is a:", "options": ["Printer", "Plotter", "Scanner", "Monitor", "Projector"], "correctAnswer": 2 },
+      { "question": "Which Excel button combines selected cells into one larger cell and centers the content?", "options": ["Wrap Text", "Merge & Center", "Shrink to Fit", "Group", "Combine"], "correctAnswer": 1 },
+      { "question": "A network that spans a large geographical area, often connecting multiple LANs, is a:", "options": ["PAN", "LAN", "WAN", "MAN", "SAN"], "correctAnswer": 2 },
+      { "question": "Which protocol is used for remote login to a computer over a network?", "options": ["HTTP", "FTP", "Telnet", "SMTP", "POP3"], "correctAnswer": 2 },
+      { "question": "Which storage device is faster, more durable, and uses flash memory?", "options": ["HDD", "SSD", "Floppy Disk", "CD-ROM", "Magnetic Tape"], "correctAnswer": 1 },
+      { "question": "The shortcut to Cut selected text is:", "options": ["Ctrl + C", "Ctrl + X", "Ctrl + V", "Ctrl + Z", "Delete"], "correctAnswer": 1 },
+      { "question": "Which of the following is a professional social networking site?", "options": ["Facebook", "Instagram", "LinkedIn", "Snapchat", "TikTok"], "correctAnswer": 2 },
+      { "question": "An IPv6 address is ___ bits long.", "options": ["32", "64", "128", "256", "16"], "correctAnswer": 2 },
+      { "question": "In a relational database, a row is technically referred to as a:", "options": ["Attribute", "Tuple", "Domain", "Relation", "Schema"], "correctAnswer": 1 },
+      { "question": "Software designed to detect and remove malicious software is:", "options": ["Firewall", "Antivirus", "Encryption", "Firmware", "Operating System"], "correctAnswer": 1 },
+      { "question": "The program stored in ROM that initializes hardware during booting is:", "options": ["OS", "BIOS", "Kernel", "Compiler", "Driver"], "correctAnswer": 1 },
+      { "question": "An input device often used for flight simulators and gaming is:", "options": ["Mouse", "Trackball", "Joystick", "Light Pen", "Stylus"], "correctAnswer": 2 },
+      { "question": "Which chart type is best for showing proportions of a whole?", "options": ["Bar Chart", "Line Chart", "Pie Chart", "Column Chart", "Scatter Plot"], "correctAnswer": 2 },
+      { "question": "The ability of an OS to run multiple programs simultaneously is called:", "options": ["Multiprocessing", "Multitasking", "Multithreading", "Time-sharing", "Batch Processing"], "correctAnswer": 1 },
+      { "question": "Which shortcut closes the current application window?", "options": ["Ctrl + F4", "Alt + F4", "Shift + F4", "Ctrl + W", "Esc"], "correctAnswer": 1 },
+      { "question": "Wi-Fi stands for:", "options": ["Wireless Fidelity", "Wireless Finance", "Wide Fidelity", "Wire Fire", "Wireless Field"], "correctAnswer": 0 },
+      { "question": "A company that provides access to the internet is called an:", "options": ["ASP", "ISP", "URL", "HTTP", "DNS"], "correctAnswer": 1 },
+      { "question": "Software that automatically displays or downloads advertising material is:", "options": ["Spyware", "Adware", "Malware", "Ransomware", "Virus"], "correctAnswer": 1 }
+    ]
+  }

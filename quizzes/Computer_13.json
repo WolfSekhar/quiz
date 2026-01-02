@@ -1,0 +1,30 @@
+{
+    "meta": {
+      "title": "ECGC PO Computer Knowledge - Set 13 (PYQ Special)",
+      "topic": "Computer Knowledge",
+      "duration": "10 Mins",
+      "numberOfQuestions": 20
+    },
+    "questions": [
+      { "question": "In the context of banking exams, what does MICR stand for?", "options": ["Magnetic Ink Character Recognition", "Magnetic Ink Code Reader", "Magnetic Ink Cases Reader", "Magnetic Input Code Recognition", "Magnetic Input Character Reader"], "correctAnswer": 0 },
+      { "question": "Which memory type requires constant refreshing to retain data?", "options": ["SRAM", "DRAM", "ROM", "PROM", "Flash"], "correctAnswer": 1 },
+      { "question": "The speed of a supercomputer is typically measured in:", "options": ["IPS", "MIPS", "FLOPS", "Hz", "GB"], "correctAnswer": 2 },
+      { "question": "Which communication mode allows data to flow in both directions but not simultaneously?", "options": ["Simplex", "Half-Duplex", "Full-Duplex", "Multiplex", "Complex"], "correctAnswer": 1 },
+      { "question": "A program that translates Mnemonic codes (Assembly Language) into Machine Language is called an:", "options": ["Compiler", "Interpreter", "Assembler", "Linker", "Loader"], "correctAnswer": 2 },
+      { "question": "In MS Word, 'Gutter Margin' refers to:", "options": ["Margin added to the left", "Margin added to the right", "Margin added to the binding side", "Margin added to the bottom", "Margin added to the top"], "correctAnswer": 2 },
+      { "question": "Which of the following is a network that connects an organization's intranet to authorized outsiders?", "options": ["Internet", "Extranet", "LAN", "WAN", "Ethernet"], "correctAnswer": 1 },
+      { "question": "Which shortcut key is used to open the 'Task Manager' in Windows?", "options": ["Ctrl + Alt + Del", "Ctrl + Shift + Esc", "Alt + Shift + Del", "Windows + T", "Ctrl + T"], "correctAnswer": 1 },
+      { "question": "The quality of a printer is measured in:", "options": ["CPS (Characters Per Second)", "PPM (Pages Per Minute)", "DPI (Dots Per Inch)", "Hz (Hertz)", "Pixels"], "correctAnswer": 2 },
+      { "question": "In the OSI model, which layer is responsible for logical addressing (IP addressing)?", "options": ["Physical Layer", "Data Link Layer", "Network Layer", "Transport Layer", "Session Layer"], "correctAnswer": 2 },
+      { "question": "Which device allows a computer to transmit data over telephone or cable lines?", "options": ["Router", "Switch", "Hub", "Modem", "Repeater"], "correctAnswer": 3 },
+      { "question": "What is the name of the software that manages the hardware and software resources of a computer?", "options": ["Application Software", "Operating System", "Utility Software", "Firmware", "Shareware"], "correctAnswer": 1 },
+      { "question": "Which Excel function is used to look up a value in the leftmost column of a table?", "options": ["HLOOKUP", "VLOOKUP", "LOOKUP", "FIND", "SEARCH"], "correctAnswer": 1 },
+      { "question": "Junk e-mail is also known as:", "options": ["Spam", "Spoof", "Sniffer Script", "Spool", "Cache"], "correctAnswer": 0 },
+      { "question": "Which generation of computers was based on VLSI (Very Large Scale Integration) technology?", "options": ["First", "Second", "Third", "Fourth", "Fifth"], "correctAnswer": 3 },
+      { "question": "A 'Digital Signature' is used to ensure:", "options": ["Confidentiality", "Integrity", "Authenticity", "All of the above", "None of the above"], "correctAnswer": 3 },
+      { "question": "Which key is used to rename a selected file or icon?", "options": ["F1", "F2", "F3", "F4", "F5"], "correctAnswer": 1 },
+      { "question": "The main webpage of a website is commonly known as the:", "options": ["Index Page", "Home Page", "Intro Page", "First Page", "Login Page"], "correctAnswer": 1 },
+      { "question": "Which of the following is NOT a type of secondary storage?", "options": ["Hard Disk", "CD-ROM", "RAM", "Pen Drive", "Magnetic Tape"], "correctAnswer": 2 },
+      { "question": "What is the full form of PDF?", "options": ["Portable Data Format", "Portable Document Format", "Public Document Format", "Personal Data File", "Primary Data File"], "correctAnswer": 1 }
+    ]
+  }
